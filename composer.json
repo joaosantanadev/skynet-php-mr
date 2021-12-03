@@ -1,11 +1,11 @@
 {
-  "name": "pcfreak30/skynet-php",
+  "name": "joaosantanadev/skynet-php-mr",
   "description": "Skynet SDK for PHP",
   "license": "MIT",
   "authors": [
     {
-      "name": "Derrick Hammer",
-      "email": "derrick@derrickhammer.com"
+      "name": "João Santana forked from skynet",
+      "email": "joaofilho.ap@gmail.com"
     }
   ],
   "require": {
